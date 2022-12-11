@@ -1,0 +1,6 @@
+auth0:
+  domain: <auth0 domain>
+  clientId: <auth0 management api client id>
+  clientSecret: <auth0 management api client secrect>
+  connection: <database name>
+  audience: <audience of JWT issued by above app (Mostly same as domain)>
